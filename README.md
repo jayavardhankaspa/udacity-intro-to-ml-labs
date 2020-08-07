@@ -2,13 +2,13 @@
 
 Azure Machine Learning designer gives you a cloud-based interactive, visual workspace that you can use to easily and quickly prep data, train and deploy machine learning models. It supports Azure Machine Learning compute, GPU or CPU. Azure Machine Learning designer also supports publishing models as web services on Azure Kubernetes Service that can easily be consumed by other applications. To use Azure Machine Learning designer, you do not need programming experience and this quickstart will walk you through an exercise that will show how to process training data, create a model, train, score, and evaluate the model and finally deploy the trained model as a web service.
 
-## Lesson 1
+## Lesson 2
 
 *Concept 9 - The Models*
 
 Lab 1: [Use an algorithm (linear regression) to train a model](./aml-visual-interface/lab-01/README.md)
 
-## Lesson 2 
+## Lesson 3 
 
 *Concept 1 - Data Import and Transformation*
 
@@ -31,7 +31,7 @@ Lab 6: [Train a two-class decision forest](./aml-visual-interface/lab-06/README.
 
 Lab 7: [Train a simple classifier with Automated ML](./aml-visual-interface/lab-07/README.md)
 
-## Lesson 3
+## Lesson 4
 
 *Concept 1 - Supervised Learning, Classification*
 
@@ -55,7 +55,7 @@ Lab 12: [Train a regressor using automated machine learning](./aml-visual-interf
 
 Lab 13: [Train a simple clustering model](./aml-visual-interface/lab-13/README.md)
 
-## Lesson 4
+## Lesson 5
 
 *Concept 1 - A taste of deep learning*
 
@@ -74,7 +74,7 @@ Lab 16: [Train a simple text classifier](./aml-visual-interface/lab-16/README.md
 Lab 17: [Train a time-series forecasting model using automated machine learning](./aml-visual-interface/lab-17/README.md)
 
 
-## Lesson 5
+## Lesson 6
 
 *Concept 2 - Compute Resources*
 
@@ -94,7 +94,7 @@ Lab 21: [Deploy a trained model as a webservice](./aml-visual-interface/lab-21/R
 
 Lab 22: [Training and deploying a model from a notebook running in a Compute Instance](./aml-visual-interface/lab-22/README.md)
 
-## Lesson 6
+## Lesson 7
 
 *Concept 2 - Model transparency and explainability*
 
